@@ -11,7 +11,7 @@ Things I return to.
   * [Using HTML as the Media Type for your API](http://codeartisan.blogspot.se/2012/07/using-html-as-media-type-for-your-api.html)
   * [Resource-oriented Client Architecture](http://roca-style.org/)
   * [Web Development: You're Doing It Wrong](http://www.infoq.com/presentations/web-development-techniques)
-* August des los Reyes
+* Design
   * [Three Things to Know for Design in the 21st Century](http://www.youtube.com/watch?v=eGkvUl79C6g)
   * [Bricolage](http://en.wikipedia.org/wiki/Bricolage)
   * [The Vignelli Canon](http://www.vignelli.com/canon.pdf)
