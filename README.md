@@ -15,8 +15,6 @@ Things I return to.
   * [Three Things to Know for Design in the 21st Century](http://www.youtube.com/watch?v=eGkvUl79C6g)
   * [Bricolage](http://en.wikipedia.org/wiki/Bricolage)
   * [The Vignelli Canon](http://www.vignelli.com/canon.pdf)
-* Misc
-  * Russell Ackoff, [A Systemic View of Transformational Leadership](http://www.acasa.upenn.edu/leadership.pdf)
 
 
 What inspired this page: [Fish, a tap essay](http://www.robinsloan.com/fish/)
