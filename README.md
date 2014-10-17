@@ -5,6 +5,7 @@ Things I return to.
 * Kent Beck
   * [Responsive Design, article](http://pragprog.com/magazines/2009-09/responsive-design)
   * [Responsive Design, presentation](http://www.infoq.com/presentations/responsive-design)
+  * [When TDD Doesn't Matter](https://www.facebook.com/notes/kent-beck/when-tdd-doesnt-matter/797644973601702)
 * Progressive Enhancement/ROCA
   * [Resource-oriented Client Architecture](http://roca-style.org/)
   * [Web Development: You're Doing It Wrong](http://www.infoq.com/presentations/web-development-techniques)
