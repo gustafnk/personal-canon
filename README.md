@@ -20,6 +20,7 @@ Things I might return to
   * [Building Hypermedia APIs with HTML](http://www.infoq.com/presentations/web-api-html)
   * [Web Development: You're Doing It Wrong](http://www.infoq.com/presentations/web-development-techniques)
   * [Bricolage](http://en.wikipedia.org/wiki/Bricolage)
+  * [Vim: revisited](http://mislav.uniqpath.com/2011/12/vim-revisited/)
 
 
 
