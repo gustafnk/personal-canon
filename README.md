@@ -1,6 +1,6 @@
 [@gustaf_nk](http://twitter.com/gustaf_nk)'s Personal Canon
 ==============
-Things I return to.
+Things I return to
 
 * Kent Beck
   * [Responsive Design, article](http://pragprog.com/magazines/2009-09/responsive-design)
