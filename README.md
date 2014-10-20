@@ -6,6 +6,7 @@ Things I return to.
   * [Responsive Design, article](http://pragprog.com/magazines/2009-09/responsive-design)
   * [Responsive Design, presentation](http://www.infoq.com/presentations/responsive-design)
   * [When TDD Doesn't Matter](https://www.facebook.com/notes/kent-beck/when-tdd-doesnt-matter/797644973601702)
+  * [Ease at Work](https://www.youtube.com/playlist?list=PLE9763518A2765373)
 * Hypermedia/Web
   * [Using HTML as the Media Type for your API](http://codeartisan.blogspot.se/2012/07/using-html-as-media-type-for-your-api.html)
   * [Resource-oriented Client Architecture](http://roca-style.org/)
