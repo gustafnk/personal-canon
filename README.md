@@ -14,9 +14,8 @@ Things I return to
   * [Using HTML as the Media Type for your API](http://codeartisan.blogspot.se/2012/07/using-html-as-media-type-for-your-api.html)
   * [Resource-oriented Client Architecture](http://roca-style.org/)
 
-[Vim: revisited](http://mislav.uniqpath.com/2011/12/vim-revisited/)
-
-[Returning to Free Software: A Guide](http://words.steveklabnik.com/returning-to-free-software-a-guide)
+* [Vim: revisited](http://mislav.uniqpath.com/2011/12/vim-revisited/)
+* [Returning to Free Software: A Guide](http://words.steveklabnik.com/returning-to-free-software-a-guide)
 
 Things I might return to
 
