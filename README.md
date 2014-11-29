@@ -19,6 +19,7 @@ Things I return to
 
 Things I might return to
 
+  * [Worse is Better is Worse](http://dreamsongs.com/Files/worse-is-worse.pdf)
   * [Is TDD Dead?](https://www.youtube.com/playlist?list=PLJb2p0qX8R_qSRhs14CiwKuDuzERXSU8m)
   * [Building Hypermedia APIs with HTML](http://www.infoq.com/presentations/web-api-html)
   * [Web Development: You're Doing It Wrong](http://www.infoq.com/presentations/web-development-techniques)
