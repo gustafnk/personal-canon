@@ -27,7 +27,7 @@ Things I might return to
   * [Should You Build or Buy Cloud Infrastructure and Platforms?](https://www.youtube.com/watch?v=lC8YptCRZck)
   * [How I finally stopped worrying and learnt to love Conway’s Law](https://www.youtube.com/watch?v=l1tyfb5we7I)
   * [Designing with Forces: How to Apply Christopher Alexander in Everyday Work"](https://vimeo.com/10875362)
-  
+  * [Choose Boring Technology](http://mcfunley.com/choose-boring-technology)  
 
 
 
