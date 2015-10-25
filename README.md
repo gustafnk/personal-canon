@@ -16,6 +16,7 @@ Things I return to
 
 * [Vim: revisited](http://mislav.uniqpath.com/2011/12/vim-revisited/)
 * [Returning to Free Software: A Guide](http://words.steveklabnik.com/returning-to-free-software-a-guide)
+* [Leveraging Diversity](https://www.youtube.com/watch?v=lt9UeknKwZw) by Scott Page
 
 Things I might return to
 
