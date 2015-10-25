@@ -7,7 +7,7 @@ Things I return to
 * [Three Things to Know for Design in the 21st Century](http://www.youtube.com/watch?v=eGkvUl79C6g) by August de los Reyes
 * [The Vignelli Canon](http://www.vignelli.com/canon.pdf) by Massimo Vignelli
 * [Choose Boring Technology](http://mcfunley.com/choose-boring-technology) by Dan McKinley
-* [Resource-oriented Client Architecture](http://roca-style.org/) by Stefan Tilkov et al
+* [Resource-Oriented Client Architecture](http://roca-style.org/) by Stefan Tilkov et al
 * [Leveraging Diversity](https://www.youtube.com/watch?v=lt9UeknKwZw) by Scott Page 
 * [When TDD Doesn't Matter](https://www.facebook.com/notes/kent-beck/when-tdd-doesnt-matter/797644973601702) by Kent Beck
 
