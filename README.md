@@ -21,6 +21,7 @@ Things I might return to
 * [How I finally stopped worrying and learnt to love Conway’s Law](https://www.youtube.com/watch?v=l1tyfb5we7I)
 * [Not just code monkeys](https://www.youtube.com/watch?v=4E3xfR6IBII)
 * [Introduction to Value Chain Mapping](https://youtu.be/NnFeIt-uaEc?t=4m33s)
+* [Modern Progressive Enhancement](https://vimeo.com/144768071)
 
 
 Things I no longer return to (even if they are good)
