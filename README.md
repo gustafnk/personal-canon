@@ -12,7 +12,6 @@ Things I return to
 * [When TDD Doesn't Matter](https://www.facebook.com/notes/kent-beck/when-tdd-doesnt-matter/797644973601702) by Kent Beck
 * [Questions to Explore Problems](http://dhemery.com/pdf/questions_to_explore_problems.pdf)
 
-
 Things I might return to
 
 * [Worse is Better is Worse](http://dreamsongs.com/Files/worse-is-worse.pdf)
@@ -24,6 +23,7 @@ Things I might return to
 * [Introduction to Value Chain Mapping](https://youtu.be/NnFeIt-uaEc?t=4m33s)
 * [Modern Progressive Enhancement](https://vimeo.com/144768071)
 * [Beyond Media Queries: An Anatomy of an Adaptive Web Experience](https://vimeo.com/55076713)
+* [Scale-Free Extreme Programming](http://www.eecs.yorku.ca/course_archive/2003-04/W/6442/misc/Kent%20Beck%20scale%20free.pdf)
 
 
 Things I no longer return to (even if they are good)
