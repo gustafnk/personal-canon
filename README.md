@@ -10,6 +10,7 @@ Things I return to
 * [Resource-Oriented Client Architecture](http://roca-style.org/) by Stefan Tilkov et al
 * [Leveraging Diversity](https://www.youtube.com/watch?v=lt9UeknKwZw) by Scott Page 
 * [When TDD Doesn't Matter](https://www.facebook.com/notes/kent-beck/when-tdd-doesnt-matter/797644973601702) by Kent Beck
+* [Questions to Explore Problems](http://dhemery.com/pdf/questions_to_explore_problems.pdf)
 
 
 Things I might return to
