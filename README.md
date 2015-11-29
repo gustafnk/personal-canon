@@ -22,6 +22,7 @@ Things I might return to
 * [Not just code monkeys](https://www.youtube.com/watch?v=4E3xfR6IBII)
 * [Introduction to Value Chain Mapping](https://youtu.be/NnFeIt-uaEc?t=4m33s)
 * [Modern Progressive Enhancement](https://vimeo.com/144768071)
+* [Beyond Media Queries: An Anatomy of an Adaptive Web Experience](https://vimeo.com/55076713)
 
 
 Things I no longer return to (even if they are good)
