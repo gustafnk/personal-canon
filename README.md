@@ -12,6 +12,7 @@ Things I return to
 * [When TDD Doesn't Matter](https://www.facebook.com/notes/kent-beck/when-tdd-doesnt-matter/797644973601702) by Kent Beck
 * [Questions to Explore Problems](http://dhemery.com/pdf/questions_to_explore_problems.pdf)
 * [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
+* [The Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin_Framework)
 
 Things I might return to
 
