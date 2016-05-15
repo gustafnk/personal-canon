@@ -8,7 +8,7 @@ Things I return to
 * [The Vignelli Canon](http://www.vignelli.com/canon.pdf) by Massimo Vignelli
 * [Choose Boring Technology](http://mcfunley.com/choose-boring-technology) by Dan McKinley
 * [Resource-Oriented Client Architecture](http://roca-style.org/) by Stefan Tilkov et al
-* [Leveraging Diversity](https://www.youtube.com/watch?v=lt9UeknKwZw) by Scott Page 
+* [Leveraging Diversity](https://youtu.be/lt9UeknKwZw?t=4m49s) by Scott Page 
 * [When TDD Doesn't Matter](https://www.facebook.com/notes/kent-beck/when-tdd-doesnt-matter/797644973601702) by Kent Beck
 * [Questions to Explore Problems](http://dhemery.com/pdf/questions_to_explore_problems.pdf)
 * [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
