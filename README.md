@@ -12,6 +12,7 @@ Things I return to
 * [Responsive Design](http://pragprog.com/magazines/2009-09/responsive-design) by Kent Beck
 * [Questions to Explore Problems](http://dhemery.com/pdf/questions_to_explore_problems.pdf)
 * [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
+* [Self-Contained Systems](http://scs-architecture.org/) by Stefan Tilkov et al
 * [Resource-Oriented Client Architecture](http://roca-style.org/) by Stefan Tilkov et al
 
 Things I might return to
