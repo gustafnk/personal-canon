@@ -4,17 +4,15 @@ Things I return to
 
 * [Architecture Without an End State](https://vimeo.com/41763228) by Michael Nygard
 * [How I finally stopped worrying and learnt to love Conway’s Law](https://www.youtube.com/watch?v=l1tyfb5we7I)
-* [Responsive Design](http://pragprog.com/magazines/2009-09/responsive-design) by Kent Beck
-* [Designing with Forces: How to Apply Christopher Alexander in Everyday Work](https://vimeo.com/10875362) by Ryan Singer
-* [Three Things to Know for Design in the 21st Century](http://www.youtube.com/watch?v=eGkvUl79C6g) by August de los Reyes
-* [The Vignelli Canon](http://www.vignelli.com/canon.pdf) by Massimo Vignelli
 * [Choose Boring Technology](http://mcfunley.com/choose-boring-technology) by Dan McKinley
-* [Resource-Oriented Client Architecture](http://roca-style.org/) by Stefan Tilkov et al
-* [Leveraging Diversity](https://youtu.be/lt9UeknKwZw?t=4m49s) by Scott Page 
-* [When TDD Doesn't Matter](https://www.facebook.com/notes/kent-beck/when-tdd-doesnt-matter/797644973601702) by Kent Beck
+* [Leveraging Diversity](https://youtu.be/lt9UeknKwZw?t=4m49s) by Scott Page
+* [Three Things to Know for Design in the 21st Century](http://www.youtube.com/watch?v=eGkvUl79C6g) by August de los Reyes
+* [The Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin_Framework)
+* [The Vignelli Canon](http://www.vignelli.com/canon.pdf) by Massimo Vignelli
+* [Responsive Design](http://pragprog.com/magazines/2009-09/responsive-design) by Kent Beck
 * [Questions to Explore Problems](http://dhemery.com/pdf/questions_to_explore_problems.pdf)
 * [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
-* [The Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin_Framework)
+* [Resource-Oriented Client Architecture](http://roca-style.org/) by Stefan Tilkov et al
 
 Things I might return to
 
@@ -26,6 +24,8 @@ Things I might return to
 
 Things I no longer return to (even if they are good)
 
+* [Designing with Forces: How to Apply Christopher Alexander in Everyday Work](https://vimeo.com/10875362) by Ryan Singer
+* [When TDD Doesn't Matter](https://www.facebook.com/notes/kent-beck/when-tdd-doesnt-matter/797644973601702) by Kent Beck
 * [Responsive Design, presentation](http://www.infoq.com/presentations/responsive-design)
 * [Ease at Work](https://www.youtube.com/playlist?list=PLE9763518A2765373)
 * [Using HTML as the Media Type for your API](http://codeartisan.blogspot.se/2012/07/using-html-as-media-type-for-your-api.html)
