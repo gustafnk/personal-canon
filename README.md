@@ -2,6 +2,7 @@
 ==============
 Things I return to
 
+* [Architecture Without an End State](https://vimeo.com/41763228) by Michael Nygard
 * [Responsive Design](http://pragprog.com/magazines/2009-09/responsive-design) by Kent Beck
 * [Designing with Forces: How to Apply Christopher Alexander in Everyday Work](https://vimeo.com/10875362) by Ryan Singer
 * [Three Things to Know for Design in the 21st Century](http://www.youtube.com/watch?v=eGkvUl79C6g) by August de los Reyes
