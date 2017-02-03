@@ -10,8 +10,8 @@ Things I return to
 * [The Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin_Framework)
 * [The Vignelli Canon](http://www.vignelli.com/canon.pdf) by Massimo Vignelli
 * [Responsive Design](http://pragprog.com/magazines/2009-09/responsive-design) by Kent Beck
-* [Questions to Explore Problems](http://dhemery.com/pdf/questions_to_explore_problems.pdf)
-* [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
+* [Questions to Explore Problems](http://dhemery.com/pdf/questions_to_explore_problems.pdf) by Dale Emery
+* [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by Brian Beckman
 * [Self-Contained Systems](http://scs-architecture.org/) by Stefan Tilkov et al
 * [Resource-Oriented Client Architecture](http://roca-style.org/) by Stefan Tilkov et al
 
