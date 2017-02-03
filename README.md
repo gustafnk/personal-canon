@@ -3,7 +3,7 @@
 Things I return to
 
 * [Architecture Without an End State](https://vimeo.com/41763228) by Michael Nygard
-* [How I finally stopped worrying and learnt to love Conway’s Law](https://www.youtube.com/watch?v=l1tyfb5we7I)
+* [How I finally stopped worrying and learnt to love Conway’s Law](https://www.youtube.com/watch?v=l1tyfb5we7I) by James Lewis
 * [Choose Boring Technology](http://mcfunley.com/choose-boring-technology) by Dan McKinley
 * [Leveraging Diversity](https://youtu.be/lt9UeknKwZw?t=4m49s) by Scott Page
 * [Three Things to Know for Design in the 21st Century](http://www.youtube.com/watch?v=eGkvUl79C6g) by August de los Reyes
