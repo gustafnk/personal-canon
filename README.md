@@ -15,6 +15,7 @@ Things I return to
 * [Self-Contained Systems](http://scs-architecture.org/) by Stefan Tilkov et al
 * [Resource-Oriented Client Architecture](http://roca-style.org/) by Stefan Tilkov et al
 * [4+1 architectural view model](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)
+* [Every line of code is always documented](https://mislav.net/2014/02/hidden-documentation/)
 
 Things I might return to
 
