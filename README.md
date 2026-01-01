@@ -3,6 +3,7 @@
 Things I return to
 
 * [The Art of Action Summary](https://web.archive.org/web/20190828111523/https://portal.netobjectives.com/wp-content/uploads/2017/12/Bungay_ArtOfAction_ChapterRecaps_Article.pdf)
+* [Team Topologies – Key Concepts](https://teamtopologies.com/key-concepts)
 * [Architecture Without an End State](https://vimeo.com/41763228) by Michael Nygard
 * [How I finally stopped worrying and learnt to love Conway’s Law](https://www.youtube.com/watch?v=l1tyfb5we7I) by James Lewis
 * [Choose Boring Technology](http://mcfunley.com/choose-boring-technology) by Dan McKinley
