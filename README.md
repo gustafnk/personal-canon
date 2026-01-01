@@ -22,14 +22,14 @@ Things I return to
 Things I might return to
 
 * [Worse is Better is Worse](http://dreamsongs.com/Files/worse-is-worse.pdf)
-* [Web Development: You're Doing It Wrong](http://www.infoq.com/presentations/web-development-techniques)
 * [Should You Build or Buy Cloud Infrastructure and Platforms?](https://www.youtube.com/watch?v=lC8YptCRZck)
-* [Introduction to Value Chain Mapping](https://youtu.be/NnFeIt-uaEc?t=4m33s)
 * [Scale-Free Extreme Programming](http://www.eecs.yorku.ca/course_archive/2003-04/W/6442/misc/Kent%20Beck%20scale%20free.pdf)
 * [At Last, Some Boundaries!](https://www.youtube.com/watch?v=yPvef9R3k-M) by Eric Evans
 
 Things I no longer return to (even if they are good)
 
+* [Introduction to Value Chain Mapping](https://youtu.be/NnFeIt-uaEc?t=4m33s)
+* [Web Development: You're Doing It Wrong](http://www.infoq.com/presentations/web-development-techniques)
 * [Designing with Forces: How to Apply Christopher Alexander in Everyday Work](https://vimeo.com/10875362) by Ryan Singer
 * [When TDD Doesn't Matter](https://www.facebook.com/notes/kent-beck/when-tdd-doesnt-matter/797644973601702) by Kent Beck
 * [Responsive Design, presentation](http://www.infoq.com/presentations/responsive-design)
