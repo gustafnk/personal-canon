@@ -19,6 +19,7 @@ Things I return to
 * [4+1 architectural view model](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)
 * [Every line of code is always documented](https://mislav.net/2014/02/hidden-documentation/) by Mislav Marohnić
 * [Async Rust can be a pleasure to work with](https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/) by Evan Schwartz
+* [Six Thinking Hats](https://www.youtube.com/watch?v=rVfx3j8QaM8) by Edward de Bono
 
 Things I might return to
 
